@@ -1,2 +1,2 @@
-def resposta():
-  pass
+def resposta(numero):
+  return numero < 0
